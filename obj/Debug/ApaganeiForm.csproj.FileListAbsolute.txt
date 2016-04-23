@@ -1,0 +1,12 @@
+c:\users\nacho\documents\visual studio 2012\Projects\ApaganeiForm\ApaganeiForm\obj\Debug\ApaganeiForm.csprojResolveAssemblyReference.cache
+c:\users\nacho\documents\visual studio 2012\Projects\ApaganeiForm\ApaganeiForm\obj\Debug\ApaganeiForm.Properties.Resources.resources
+c:\users\nacho\documents\visual studio 2012\Projects\ApaganeiForm\ApaganeiForm\obj\Debug\ApaganeiForm.csproj.GenerateResource.Cache
+C:\Users\Nacho\Documents\Visual Studio 2012\Projects\ApaganeiForm\ApaganeiForm\obj\Debug\ApaganeiForm.FrmApagado.resources
+C:\Users\Nacho\Documents\Visual Studio 2012\Projects\ApaganeiForm\ApaganeiForm\obj\Debug\ApaganeiForm.FrmTiempo.resources
+C:\Users\Nacho\Documents\Visual Studio 2012\Projects\ApaganeiForm\ApaganeiForm\obj\Debug\ApaganeiForm.Frmayuda.resources
+C:\Users\Nacho\Documents\Visual Studio 2012\Projects\ApaganeiForm\ApaganeiForm\obj\Debug\ApaganeiForm.FrmPrincipal.resources
+C:\Users\Nacho\Documents\Visual Studio 2012\Projects\ApaganeiForm\ApaganeiForm\bin\Debug\Apaganeitor 2000  Beta(2.1).exe.config
+C:\Users\Nacho\Documents\Visual Studio 2012\Projects\ApaganeiForm\ApaganeiForm\bin\Debug\Apaganeitor 2000  Beta(2.1).exe
+C:\Users\Nacho\Documents\Visual Studio 2012\Projects\ApaganeiForm\ApaganeiForm\bin\Debug\Apaganeitor 2000  Beta(2.1).pdb
+C:\Users\Nacho\Documents\Visual Studio 2012\Projects\ApaganeiForm\ApaganeiForm\obj\Debug\Apaganeitor 2000  Beta(2.1).exe
+C:\Users\Nacho\Documents\Visual Studio 2012\Projects\ApaganeiForm\ApaganeiForm\obj\Debug\Apaganeitor 2000  Beta(2.1).pdb
